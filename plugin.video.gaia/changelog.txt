@@ -1,4 +1,8 @@
 
+[B]2.1.5 (2018.04.26)[/B]
+- Fix for some Incursion and Placenta scrapers.
+- Disabled Torrentz2 provider by default.
+
 [B]2.1.4 (2018.04.26)[/B]
 - Few minor scraping settings fixes.
 
