@@ -1,4 +1,9 @@
 
+[B]2.2.0 (2018.05.05)[/B]
+- Major bug fixes for Incursion and Placenta scrapers.
+- Fixed Torrentz2 setting.
+- Added show year to metadata.
+
 [B]2.1.5 (2018.04.26)[/B]
 - Fix for some Incursion and Placenta scrapers.
 - Disabled Torrentz2 provider by default.
