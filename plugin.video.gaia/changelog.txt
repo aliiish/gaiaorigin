@@ -1,4 +1,16 @@
 
+[B]2.3.0 (2018.05.17)[/B]
+- Fixed movie and episode directory listing.
+- Added Trakt premiered, added, and watched date sorting.
+- Fixed torrent link detection in metadata.
+- Fixed restrictive filter dialog loader.
+- Better operating system detection.
+- Updated the scraping process.
+- Removed default screener and cam quality filtering.
+- Major flaw with automatic backups fixed.
+- Automatic backup restore with no more corrupt settings popups.
+- Fixed OffCloud proxy setting.
+
 [B]2.2.0 (2018.05.05)[/B]
 - Major bug fixes for Incursion and Placenta scrapers.
 - Fixed Torrentz2 setting.
